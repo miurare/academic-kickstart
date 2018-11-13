@@ -19,27 +19,79 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Specially Appointed Assistant Professor"
+  company = "Chile Observatory"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Mitaka"
+  date_start = "2015-04-01"
+  date_end = ""
+  description = """ 75% dedicated to the telescope duty"""
+
+[[experience]]
+  title = "East-Asia Archive Cognizant Lead"
+  company = "ALMA"
+  company_url = ""
+  location = "Mitaka"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+[[experience]]
+  title = "ALMA Sigle Dish Pipeline Subsystem Scientist"
+  company = "ALMA"
+  company_url = ""
+  location = "Mitaka"
+  date_start = "2014-12-01"
+  date_end = "2017-11-30"
+  description = """ muchas cosas"""
+   
+  * ...
   """
+[[experience]]
+  title = "East-Asia ALMA Pipeline Cognizant Lead Deputy"
+  company = "EA ARC"
+  company_url = ""
+  location = "Mitaka"
+  date_start = "2016-08-01"
+  date_end = "2017-11-30"
+  description = """ muchas cosas"""
+  
+[[experience]]
+  title = "East-Asia ALMA Pipeline Cognizant Lead"
+  company = "EA ARC"
+  company_url = ""
+  location = "Mitaka"
+  date_start = "2014-12-01"
+  date_end = "2016-07-30"
+  description = """ muchas cosas"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Long term visitor"
+  company = "Joint ALMA Observatory (JAO)"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Santiago de Chile, Chile"
+  date_start = "2014-01-01"
+  date_end = "2015-03-09"
+  description = """ muchas cosas"""
+
+[[experience]]
+  title = "Research Fellow"
+  company = "Chile Observatory"
+  company_url = ""
+  location = "Mitaka"
+  date_start = "2013-04-01"
+  date_end = "2015-03-31"
+  description = """ 50% dedicated to the telescope duty"""
+
+[[experience]]
+  title = "Customer Engineer"
+  company = "IBM Japan"
+  company_url = ""
+  location = "Tokyo,Japan"
+  date_start = "2007-04-01"
+  date_end = "2008-12-31"
+  description = """ customer engineer"""
+
 
 +++
