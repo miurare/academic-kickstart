@@ -10,31 +10,35 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Nearby Galaxies",
+    "Starburst",
+    "Giant Molecular Clouds",
+    "Interstellar Matter",
+    "Massive Star Formation",
+    "Super Stellar Cluster",
+    "Machine Learning",
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Astronomy"
+  institution = "The University of Tokyo"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Master in Astronomy"
+  institution = "The University of Tokyo"
+  year = 2007
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "Bachelor in Astrophyics"
+  institution = "Kyoto University"
+  year = 2005
+  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rie E. Miura is a speciialy appointed asistant professor at the East-Asia ALMA Regional Center(EA-ARC), the ALMA Project in the National Astronomical Observatory of Japan. Her research interests include what are the properties of molecular clouds and how massive star cluster form within molecular clouds in relatively nearby galaxies, in order to infer the local star formation process at higher redshift starburst objects. She is a member of "ALMA Centaurus A collaboration", "NRO M33 All Disk Survey of Giant Molecular Clouds (NRO MAGiC)" project. My current job at the EA-ARC is entailed among other task in data reduction, commissioning, as well as the design, testing and improvement of the ALMA Pipeline, and the ALMA Science Archive. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
