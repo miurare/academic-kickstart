@@ -36,6 +36,7 @@ date_format = "January 2006"
   date_end = ""
   description = """
   Responsibilities include:
+  """
   
 [[experience]]
   title = "ALMA Sigle Dish Pipeline Subsystem Scientist"
@@ -45,9 +46,7 @@ date_format = "January 2006"
   date_start = "2014-12-01"
   date_end = "2017-11-30"
   description = """ muchas cosas"""
-   
-  * ...
-  """
+  
 [[experience]]
   title = "East-Asia ALMA Pipeline Cognizant Lead Deputy"
   company = "EA ARC"
