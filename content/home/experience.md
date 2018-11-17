@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "Mitaka"
   date_start = "2015-04-01"
   date_end = ""
-  description = """ 75% dedicated to the telescope duty"""
+  description = """ """
 
 [[experience]]
   title = "East-Asia Archive Cognizant Lead"
@@ -35,7 +35,6 @@ date_format = "January 2006"
   date_start = "2018-09-01"
   date_end = ""
   description = """
-  Responsibilities include:
   """
   
 [[experience]]
@@ -45,7 +44,7 @@ date_format = "January 2006"
   location = "Mitaka"
   date_start = "2014-12-01"
   date_end = "2017-11-30"
-  description = """ muchas cosas"""
+  description = """ """
   
 [[experience]]
   title = "East-Asia ALMA Pipeline Cognizant Lead Deputy"
@@ -54,7 +53,7 @@ date_format = "January 2006"
   location = "Mitaka"
   date_start = "2016-08-01"
   date_end = "2017-11-30"
-  description = """ muchas cosas"""
+  description = """ """
   
 [[experience]]
   title = "East-Asia ALMA Pipeline Cognizant Lead"
@@ -63,7 +62,7 @@ date_format = "January 2006"
   location = "Mitaka"
   date_start = "2014-12-01"
   date_end = "2016-07-30"
-  description = """ muchas cosas"""
+  description = """ """
 
 [[experience]]
   title = "Long term visitor"
@@ -72,7 +71,7 @@ date_format = "January 2006"
   location = "Santiago de Chile, Chile"
   date_start = "2014-01-01"
   date_end = "2015-03-09"
-  description = """ muchas cosas"""
+  description = """ """
 
 [[experience]]
   title = "Research Fellow"
@@ -81,7 +80,7 @@ date_format = "January 2006"
   location = "Mitaka"
   date_start = "2013-04-01"
   date_end = "2015-03-31"
-  description = """ 50% dedicated to the telescope duty"""
+  description = """ """
 
 [[experience]]
   title = "Customer Engineer"
@@ -90,7 +89,7 @@ date_format = "January 2006"
   location = "Tokyo,Japan"
   date_start = "2007-04-01"
   date_end = "2008-12-31"
-  description = """ customer engineer"""
+  description = """ Customer engineer"""
 
 
 +++
