@@ -24,7 +24,7 @@ date_format = "2016-01-06"
   company_url = "https://alma-telescope.jp/en/"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2015-04-01"
-  date_end = " "
+  date_end = ""
   description = ""Responsibilities include:
   
    * EA Science Archive Cognizant Lead (Sep 2018 - present)
