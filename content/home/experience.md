@@ -30,7 +30,18 @@ date_format = "November 2018"
   * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
   * EA ALMA Pipeline Cognizant Lead (Dec 2014 - Jul 2016)
   """
-
+  
+[[experience]]
+  title = "Part-time lecturer"
+  company = "Kogakuin University"
+  company_url = "https://www.kogakuin.ac.jp/english/"
+  location = "Hachioji, Tokyo, JAPAN"
+  date_start = "2016-09-01"
+  date_end = "2017-03-31"
+  description = """ Responsibilities include:
+  * Tutoring in the course 'Experiments Physics'
+  """
+  
 [[experience]]
   title = "Long term visitor"
   company = "Joint ALMA Observatory (JAO)"
