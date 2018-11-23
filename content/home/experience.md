@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "November 2018"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -25,44 +25,11 @@ date_format = "January 2006"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2015-04-01"
   date_end = ""
-  description = """ """
-
-[[experience]]
-  title = "East-Asia Archive Cognizant Lead"
-  company = "Atacama Large Millimeter/submillimeter Array (ALMA)"
-  company_url = "https://alma-telescope.jp/en/"
-  location = "Mitaka, Tokyo, JAPAN"
-  date_start = "2018-09-01"
-  date_end = ""
-  description = """
+  description = """ Responsibilities include:
+  * EA Science Archive Cognizant Lead (Sep 2018 - present)
+  * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
+  * EA ALMA Pipeline Cognizant Lead (Dec 2014 - Jul 2016)
   """
-  
-[[experience]]
-  title = "ALMA Sigle Dish Pipeline Subsystem Scientist"
-  company = "Atacama Large Millimeter/submillimeter Array (ALMA)"
-  company_url = "https://www.almaobservatory.org/en/home/"
-  location = "Mitaka, Tokyo, JAPAN"
-  date_start = "2014-12-01"
-  date_end = "2017-11-30"
-  description = """ """
-  
-[[experience]]
-  title = "East-Asia ALMA Pipeline Cognizant Lead Deputy"
-  company = "East-Asia ALMA Regional Center (EAARC)"
-  company_url = "https://alma-telescope.jp/en/"
-  location = "Mitaka, Tokyo, JAPAN"
-  date_start = "2016-08-01"
-  date_end = "2017-11-30"
-  description = """ """
-  
-[[experience]]
-  title = "East-Asia ALMA Pipeline Cognizant Lead"
-  company = "East-Asia ALMA Regional Center (EAARC)"
-  company_url = "https://alma-telescope.jp/en/"
-  location = "Mitaka, Tokyo, JAPAN"
-  date_start = "2014-12-01"
-  date_end = "2016-07-30"
-  description = """ """
 
 [[experience]]
   title = "Long term visitor"
@@ -80,7 +47,11 @@ date_format = "January 2006"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2013-04-01"
   date_end = "2015-03-31"
-  description = """ """
+  description = """ 
+  * Data Reducer for Quality Assurance
+  * Tester of ALMA Pipeline
+  * Long term visitor in Joint ALMA Observatory (Santiago de Chile) (Jan 2014 - Mar 2015)
+  """
 
 [[experience]]
   title = "Customer Engineer"
@@ -90,6 +61,5 @@ date_format = "January 2006"
   date_start = "2007-04-01"
   date_end = "2008-12-31"
   description = """ Customer engineer"""
-
 
 +++
