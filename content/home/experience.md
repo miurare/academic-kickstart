@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "November 2018"
+date_format = "November 23, 2018"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -25,7 +25,8 @@ date_format = "November 2018"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2015-04-01"
   date_end = ""
-  description = """ Responsibilities include:
+  Responsibilities include:
+  
   * EA Science Archive Cognizant Lead (Sep 2018 - present)
   * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
   * EA ALMA Pipeline Cognizant Lead (Dec 2014 - Jul 2016)
@@ -36,10 +37,10 @@ date_format = "November 2018"
   company = "Kogakuin University"
   company_url = "https://www.kogakuin.ac.jp/english/"
   location = "Hachioji, Tokyo, JAPAN"
-  date_start = "01/09/16"
-  date_end = "03/31/17"
+  date_start = "2016-09-01"
+  date_end = "2017-03-31"
   description = """ Responsibilities include:
-  * Tutoring in the course 'Experiments Physics'
+  * Tutor in the course 'Experiments Physics'
   """
 
 [[experience]]
@@ -47,9 +48,10 @@ date_format = "November 2018"
   company = "Chile Observatory"
   company_url = "https://alma-telescope.jp/en/"
   location = "Mitaka, Tokyo, JAPAN"
-  date_start = "01/04/13"
-  date_end = "03/31/15"
+  date_start = "2013-04-01"
+  date_end = "2015-03-31"
   description = """ 
+  
   * Data Reducer for Quality Assurance
   * Tester of ALMA Pipeline
   * Long term visitor in Joint ALMA Observatory (Santiago de Chile) (Jan 2014 - Mar 2015)
@@ -60,8 +62,8 @@ date_format = "November 2018"
   company = "IBM Japan"
   company_url = "https://www.ibm.com"
   location = "Tokyo, JAPAN"
-  date_start = "01/04/07"
-  date_end = "12/31/08"
+  date_start = "2007-04-041"
+  date_end = "2018-12-31"
   description = """ Customer engineer"""
 
 +++
