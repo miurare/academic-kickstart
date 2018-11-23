@@ -9,7 +9,7 @@
 # baseurl = "/"
 
 # Title of your site
-title = "Rie E. Miura:: Research"
+title = "Rie E. Miura:: Researcher"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -65,8 +65,8 @@ enableGitInfo = false
   email = "rie.miura@nao.ac.jp"
   address = "ALMA Project, National Astronomical Observatory of Japan, 2-21-1 Osawa, Mitaka, Tokyo 181-8588, JAPAN"
   office_hours = "Monday 8:30 to 17:15 or email for appointment"
-  phone = ""
-  skype = ""
+  phone = "0422 34 3900"
+  skype = "miura223"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -205,7 +205,7 @@ enableGitInfo = false
   [params.publications]
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "January, 2006"
+    date_format = "November, 2018"
 
   # Configuration of project pages.
   [params.projects]
