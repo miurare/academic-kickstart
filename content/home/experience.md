@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2016-01-06"
+date_format = "2018-01-01"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -63,7 +63,7 @@ date_format = "2016-01-06"
   company = "IBM Japan"
   company_url = "https://www.ibm.com"
   location = "Tokyo, JAPAN"
-  date_start = "2007-04-041"
+  date_start = "2007-04-01"
   date_end = "2018-12-31"
   description = """ Customer engineer"""
 
