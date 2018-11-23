@@ -11,7 +11,7 @@ weight = 8
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "November 23, 2018"
+date_format = "2016-01-06"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -24,7 +24,8 @@ date_format = "November 23, 2018"
   company_url = "https://alma-telescope.jp/en/"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2015-04-01"
-  date_end = ""Responsibilities include:
+  date_end = ""
+  description = ""Responsibilities include:
   
    * EA Science Archive Cognizant Lead (Sep 2018 - present)
    * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
