@@ -24,12 +24,11 @@ date_format = "November 23, 2018"
   company_url = "https://alma-telescope.jp/en/"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2015-04-01"
-  date_end = ""
-  Responsibilities include:
+  date_end = ""Responsibilities include:
   
-  * EA Science Archive Cognizant Lead (Sep 2018 - present)
-  * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
-  * EA ALMA Pipeline Cognizant Lead (Dec 2014 - Jul 2016)
+   * EA Science Archive Cognizant Lead (Sep 2018 - present)
+   * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
+   * EA ALMA Pipeline Cognizant Lead (Dec 2014 - Jul 2016)
   """
   
 [[experience]]
@@ -40,7 +39,8 @@ date_format = "November 23, 2018"
   date_start = "2016-09-01"
   date_end = "2017-03-31"
   description = """ Responsibilities include:
-  * Tutor in the course 'Experiments Physics'
+  
+   * Tutor in the course Experiments Physics
   """
 
 [[experience]]
@@ -50,11 +50,11 @@ date_format = "November 23, 2018"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2013-04-01"
   date_end = "2015-03-31"
-  description = """ 
+  description = """ Responsibilities include:
   
-  * Data Reducer for Quality Assurance
-  * Tester of ALMA Pipeline
-  * Long term visitor in Joint ALMA Observatory (Santiago de Chile) (Jan 2014 - Mar 2015)
+   * Data Reducer for Quality Assurance
+   * Tester of ALMA Pipeline
+   * Long term visitor in Joint ALMA Observatory (Santiago de Chile) (Jan 2014 - Mar 2015)
   """
 
 [[experience]]
