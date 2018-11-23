@@ -36,28 +36,19 @@ date_format = "November 2018"
   company = "Kogakuin University"
   company_url = "https://www.kogakuin.ac.jp/english/"
   location = "Hachioji, Tokyo, JAPAN"
-  date_start = "2016-09-01"
-  date_end = "2017-03-31"
+  date_start = "01/09/16"
+  date_end = "03/31/17"
   description = """ Responsibilities include:
   * Tutoring in the course 'Experiments Physics'
   """
-  
-[[experience]]
-  title = "Long term visitor"
-  company = "Joint ALMA Observatory (JAO)"
-  company_url = "https://www.almaobservatory.org/en/home/"
-  location = "Santiago de Chile, CHILE"
-  date_start = "2014-01-01"
-  date_end = "2015-03-09"
-  description = """ """
 
 [[experience]]
   title = "Research Fellow"
   company = "Chile Observatory"
   company_url = "https://alma-telescope.jp/en/"
   location = "Mitaka, Tokyo, JAPAN"
-  date_start = "2013-04-01"
-  date_end = "2015-03-31"
+  date_start = "01/04/13"
+  date_end = "03/31/15"
   description = """ 
   * Data Reducer for Quality Assurance
   * Tester of ALMA Pipeline
@@ -69,8 +60,8 @@ date_format = "November 2018"
   company = "IBM Japan"
   company_url = "https://www.ibm.com"
   location = "Tokyo, JAPAN"
-  date_start = "2007-04-01"
-  date_end = "2008-12-31"
+  date_start = "01/04/07"
+  date_end = "12/31/08"
   description = """ Customer engineer"""
 
 +++
