@@ -47,7 +47,7 @@ date_format = "January 2, 2006"
 
 [[experience]]
   title = "Research Fellow"
-  company = "Chile Observatory"
+  company = "Chile Observatory, National Astronomical Observatory of Japan"
   company_url = "https://alma-telescope.jp/en/"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2013-04-01"
