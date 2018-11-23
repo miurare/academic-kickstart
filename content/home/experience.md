@@ -25,7 +25,7 @@ date_format = "2016-01-06"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2015-04-01"
   date_end = ""
-  description = ""Responsibilities include:
+  description = """Responsibilities include:
   
    * EA Science Archive Cognizant Lead (Sep 2018 - present)
    * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
