@@ -27,9 +27,10 @@ date_format = "January 2, 2006"
   date_end = ""
   description = """Responsibilities include:
   
-   * EA Science Archive Cognizant Lead (Sep 2018 - present)
+   * ALMA Science Archive Working Group EA Cognizant Lead (Nov 2018 - present)
+   * ALMA Proposars Guide Working Group EA Cognizant Lead (Sep 2018 - present)
    * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
-   * EA ALMA Pipeline Cognizant Lead (Dec 2014 - Jul 2016)
+   * ALMA Pipeline EA Cognizant Lead (Dec 2014 - Jul 2016)
   """
   
 [[experience]]
