@@ -205,7 +205,7 @@ enableGitInfo = false
   [params.publications]
     # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-    date_format = "November 23, 2018"
+    date_format = "Mon, Jan 2, 2006"
 
   # Configuration of project pages.
   [params.projects]
