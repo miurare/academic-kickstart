@@ -20,17 +20,20 @@ date_format = "January 2, 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Specially Appointed Assistant Professor"
-  company = "Chile Observatory, National Astronomical Observatory of Japan"
+  company = "ALMA Project, National Astronomical Observatory of Japan"
   company_url = "https://alma-telescope.jp/en/"
   location = "Mitaka, Tokyo, JAPAN"
   date_start = "2015-04-01"
   date_end = ""
   description = """Responsibilities include:
   
+   * ALMA e2e User Experience Working Group NAOJ representative (Jun 2019 - present)
    * ALMA Science Archive Working Group EA Cognizant Lead (Nov 2018 - present)
    * ALMA Proposars Guide Working Group EA Cognizant Lead (Sep 2018 - present)
    * ALMA Pipeline Single Dish Subsystem Scientist (Dec 2014 - Nov 2017)
    * ALMA Pipeline EA Cognizant Lead (Dec 2014 - Jul 2016)
+   * Data Reducer for Quality Assurance level 2
+   * Tester of ALMA Pipeline
   """
   
 [[experience]]
